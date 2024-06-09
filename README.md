@@ -1,12 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+# PROJETO: Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ### Objetivos
 
@@ -20,32 +12,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Equilíbrio da Inteligência Artificial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Pequeno vídeo que fala sobre a importância da Inteligência Artificial, mas também seus possíveis perigos, e da necessidade do uso dessa tecnologia com cuidado.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT: Roteiro
+Runway: Criação do áudio
+D-ID: Escolha do avatar e crianção do vídeo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Tive como ideia a criação de um vídeo curto, com avatar que chamae a atenção, pois hoje em dia as pessoas preferem ver vídeos curtos, sucintos e que chamem sua atenção de alguma forma, mas que ao mesmo tempo não os prendam muito tempo no mesmo conteúdo. Assim, decidi que o assunto seria sobre a IA em si, uma breve introdução que deixasse as pessoas curiosas. Solicitei um roteiro ao ChatGPT, no roteiro ele deveria falar sobre os benefícios da IA para a sociedade, seus possíveis perigos e também ressaltar a importância de uma utilização com ética e responsabilidade.
+Após isso, usei o Runway para criar um áudio com o roteiro que o ChatGPT me entregou, mas que eu editei algumas partes, escolhi uma voz e um avatar animado para fazer o vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um vídeo curto, como eu queria, e que trouxe um roteiro que resumiu muito bem o que eu gostaria de dizer e também que traz a pontinha de curiosidade para que as pessoas queiram saber mais sobre o assunto.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
