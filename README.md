@@ -16,5 +16,5 @@ Tive como ideia a criação de um vídeo curto, com avatar que chamae a atençã
 Após isso, usei o Runway para criar um áudio com o roteiro que o ChatGPT me entregou, mas que eu editei algumas partes, escolhi uma voz e um avatar animado para fazer o vídeo.
 
 ## 🚀 Resultados
-O resultado foi um vídeo curto, como eu queria, e que trouxe um roteiro que resumiu muito bem o que eu gostaria de dizer e também que traz a pontinha de curiosidade para que as pessoas queiram saber mais sobre o assunto.
+O resultado foi um vídeo curto, como eu queria, e que trouxe um roteiro que resumiu muito bem o que eu gostaria de dizer e também que traz a pontinha de curiosidade para que as pessoas queiram saber mais sobre o assunto. Você pode visualizá-lo na pasta "Equilíbrio IA".
 
