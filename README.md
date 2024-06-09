@@ -8,8 +8,8 @@ Pequeno vídeo que fala sobre a importância da Inteligência Artificial, mas ta
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT: Roteiro
-Runway: Criação do áudio
-D-ID: Escolha do avatar e crianção do vídeo
+/Runway: Criação do áudio
+/D-ID: Escolha do avatar e crianção do vídeo
 
 ## 🧐 Processo de Criação
 Tive como ideia a criação de um vídeo curto, com avatar que chamae a atenção, pois hoje em dia as pessoas preferem ver vídeos curtos, sucintos e que chamem sua atenção de alguma forma, mas que ao mesmo tempo não os prendam muito tempo no mesmo conteúdo. Assim, decidi que o assunto seria sobre a IA em si, uma breve introdução que deixasse as pessoas curiosas. Solicitei um roteiro ao ChatGPT, no roteiro ele deveria falar sobre os benefícios da IA para a sociedade, seus possíveis perigos e também ressaltar a importância de uma utilização com ética e responsabilidade.
